@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718419566 source:c:\users\pc\desktop\umg\examenfinal\metodosecante\main.cpp
+	<iostream>
+	<cmath>
+	<functional>
+
